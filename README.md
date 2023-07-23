@@ -18,10 +18,10 @@ I'm a 18 year old software engineer from Germany and I've beem coding since I wa
 
 ![skills](https://skillicons.dev/icons?i=ableton,arduino,atom,cs,css,discord,bots,dotnet,eclipse,github,html,idea,instagram,java,js,linkedin,linux,mysql,py,raspberrypi,stackoverflow,twitter,visualstudio,vscode,&theme=light)
 
-## 🖊 Blog
+<!-- ## 🖊 Blog-->
 
 <!-- BLOG-POST-LIST:START -->
-- [Raspberry Pi: Remote Desktop](https://jqshuv.blog/raspberry-pi-remote-desktop/)
-- [How to get a free domain with Freenom and Cloudflare](https://jqshuv.blog/how-to-register-a-free-domain-with/)
-- [Install Coder OSS on Ubuntu](https://jqshuv.blog/install-coder-oss-on-ubuntu/)
+<!-- - [Raspberry Pi: Remote Desktop](https://jqshuv.blog/raspberry-pi-remote-desktop/)-->
+<!-- - [How to get a free domain with Freenom and Cloudflare](https://jqshuv.blog/how-to-register-a-free-domain-with/)-->
+<!-- - [Install Coder OSS on Ubuntu](https://jqshuv.blog/install-coder-oss-on-ubuntu/)-->
 <!-- BLOG-POST-LIST:END -->
