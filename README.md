@@ -4,7 +4,7 @@
 
 <sup>**🛑 One should only code in Dark Mode!**</sup>
 
-I'm a 18 year old software engineer from Germany and I've beem coding since I was 8 :).
+I'm a 18 year old software engineer from Germany and I've been coding since I was 8 :).
 
 ## 💡 Stats & 💾 Most Used Languages
 
