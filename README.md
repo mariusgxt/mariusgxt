@@ -12,7 +12,7 @@ I'm a 19 year old software engineer from Germany and I've been coding since I wa
 
 ## 🎧 Spotify Playing
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tlwnqvwcl8snhg928gti72y1g&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=tlwnqvwcl8snhg928gti72y1g&redirect=true)
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=tlwnqvwcl8snhg928gti72y1g&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=tlwnqvwcl8snhg928gti72y1g&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=false)]]
 
 ## 🔧 Stuff I work with
 
