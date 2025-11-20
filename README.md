@@ -36,15 +36,20 @@
 </div>
 
 ---
-
-## 🏆 GitHub Trophies
+## 📊 GitHub Profile Summary
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=mariusgxt&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mariusgxt&theme=tokyonight)
 
 </div>
 
+<div align="center">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mariusgxt&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mariusgxt&theme=tokyonight)
+
+</div>
 ---
 
 ## 🛠️ Tech Stack & Tools
