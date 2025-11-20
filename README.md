@@ -1,31 +1,58 @@
 # Hey, I'm Marius 👋
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/marius.gxt) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@mariusgxt) [![KoFi](https://img.shields.io/badge/Ko--Fi-%23000000.svg?&style=flat-square&logo=kofi&logoColor=white)](https://ko-fi.com/mariusgxt)
+<div align="center">
+  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/marius.gxt)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@mariusgxt)
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/mariusgxt)
 
-<sup>**🛑 One should only code in Dark Mode!**</sup>
+</div>
 
-I'm a 20 year old software engineer from Germany :)
+> **🌙 Dark mode enthusiast • 🇩🇪 Based in Germany • 💻 20-year-old software engineer**
 
-## 💡 Stats & 💾 Most Used Languages
+---
 
-![stats](https://github-readme-stats.vercel.app/api?username=mariusgxt&show_icons=true&hide=stars&hide_border=true&bg_color=FF000000&text_color=ffffff&hide_title=true&count_private=true)    ![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=mariusgxt&hide_border=true&bg_color=FF000000&text_color=ffffff&hide_title=true&count_private=true)
+## 📊 GitHub Stats
 
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariusgxt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariusgxt&layout=compact&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117" />
 
+</div>
 
+<div align="center">
+  
+![](https://github-readme-streak-stats.herokuapp.com/?user=mariusgxt&theme=tokyonight&hide_border=true&background=0d1117)
 
-## 🔧 Stuff I work with
+</div>
 
-![skills](https://skillicons.dev/icons?i=ableton,arduino,atom,cs,css,discord,bots,dotnet,eclipse,github,html,idea,instagram,java,js,linkedin,linux,mysql,py,raspberrypi,stackoverflow,twitter,visualstudio,vscode,&theme=light)
+---
 
+## 🛠️ Tech Stack & Tools
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=tlwnqvwcl8snhg928gti72y1g&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=tlwnqvwcl8snhg928gti72y1g&redirect=true)
-<!-- ## 🖊 Blog-->
+<div align="center">
 
-<!-- BLOG-POST-LIST:START -->
-<!-- - [Raspberry Pi: Remote Desktop](https://jqshuv.blog/raspberry-pi-remote-desktop/)-->
-<!-- - [How to get a free domain with Freenom and Cloudflare](https://jqshuv.blog/how-to-register-a-free-domain-with/)-->
-<!-- - [Install Coder OSS on Ubuntu](https://jqshuv.blog/install-coder-oss-on-ubuntu/)-->
-<!-- - ## 🎧 Spotify Playing
+![My Skills](https://skillicons.dev/icons?i=js,ts,python,java,cs,dotnet,html,css,react,nodejs,arduino,raspberrypi,linux,mysql,mongodb,discord,bots,git,github,vscode,idea,visualstudio,eclipse,atom&theme=dark&perline=12)
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=tlwnqvwcl8snhg928gti72y1g&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=tlwnqvwcl8snhg928gti72y1g&redirect=true) -->
-<!-- BLOG-POST-LIST:END -->
+</div>
+
+---
+
+## 🎧 Currently Vibing To
+
+<div align="center">
+
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=tlwnqvwcl8snhg928gti72y1g&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=tlwnqvwcl8snhg928gti72y1g&redirect=true)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💬 Let's Connect!
+
+*Always open to interesting projects and collaborations*
+
+</div>
