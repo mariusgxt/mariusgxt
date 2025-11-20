@@ -41,7 +41,7 @@
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=mariusgxt&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15)
+![trophy](https://github-profile-trophy.vercel.app/?username=mariusgxt&theme=darkhub&no-frame=true&no-bg=true)
 
 </div>
 
