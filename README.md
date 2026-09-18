@@ -12,7 +12,7 @@
 
 </div>
 
-> **🌙 One should only code in Dark Mode • 💻 21-year-old software engineer • 🇩🇪 Based in Europe**
+> **🌙 One should only code in Dark Mode • 💻 21-year-old software engineer • 🇪🇺 Based in Europe**
 
 ---
 
