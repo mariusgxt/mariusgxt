@@ -7,16 +7,12 @@
 </div>
 
 <div align="center">
-  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/marius.gxt)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@mariusgxt)
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/mariusgxt)
 
 ![](https://komarev.com/ghpvc/?username=mariusgxt&color=58A6FF&style=flat-square&label=Profile+Views)
 
 </div>
 
-> **🌙 One should only code in Dark Mode • 💻 20-year-old software engineer • 🇩🇪 Based in Germany**
+> **🌙 One should only code in Dark Mode • 💻 21-year-old software engineer • 🇩🇪 Based in Europe**
 
 ---
 
@@ -62,32 +58,12 @@
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-[![Marius's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mariusgxt&theme=tokyo-night&hide_border=true&bg_color=0d1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🎧 Currently Vibing To
-
-<div align="center">
-
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=tlwnqvwcl8snhg928gti72y1g&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=tlwnqvwcl8snhg928gti72y1g&redirect=true)
-
-</div>
-
----
-
 <div align="center">
   
 ### 💬 Let's Connect!
 
 *Always open to interesting projects and collaborations*
 
-**📫 Reach out via Twitter, YouTube, or Ko-fi**
+**📫 Reach out via ////**
 
 </div>
